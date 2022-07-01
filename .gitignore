@@ -4,6 +4,9 @@
 # Log file
 *.log
 
+# first scripts of the system
+/skizzen
+
 # BlueJ files
 *.ctxt
 
